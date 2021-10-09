@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aboutpage</title>
+    <style>
+        .div1
+        {
+            
+            width: 100%;
+            height: 40px;
+            background-color: red;
+            position: relative;
+            top: -14px;
+        }
+        .div2{
+            width: 100%;
+            height: 100px;
+            background-color:black;
+            position: relative;
+
+        }
+        .p3
+        {
+            color: white;
+            position: relative;
+            left:60px;
+            top: 12px;
+        }
+        .p1
+        {
+            color: white;
+            position: relative;
+            left:120px;
+            top: -25px;
+        }
+        .image1{
+            width:18px;
+            height:18px;
+            position: relative;
+            top: -60px;
+            left:260px;
+        }
+        .p2
+        {
+            color: white;
+            position: relative;
+            left:290px;
+            top: -100px;
+        }
+        .newh1{
+            color: royalblue;
+            position: relative;
+            left: 50px;
+        }
+        .newh2{
+            color:white;
+            position: relative;
+            left: 580px;
+            top: 30px;
+        }
+        /* .p4{
+            position: relative;
+            left:30px;
+            top: 280px;
+            color:darkgreen;
+        } */
+        /* .image2
+        {
+            width: 520px;
+            height: 450px;
+            border-radius: 20px;
+            position: relative;
+            left:650px;
+            
+        } */
+        .div3{
+            width: 100%;
+            height: 250px;
+            background-color:darkcyan;
+             margin-top: -350px; 
+        }
+        .demoh2{
+            position: relative;
+            left: 100px;
+            top: 30px;
+            color: white;
+        }
+        .p5
+        {
+            position: relative;
+            top: 30px;
+            left: 120px;
+            color: white;
+        }
+
+        .td1
+        {
+            position: relative;
+            left: 100px;
+            top: 20px;
+            color:darkgreen;
+
+        }
+
+        .td2{
+            position: relative;
+            left: 260px;
+            top: 80px;
+
+        }
+        .td2 img{
+            width:560px;
+            height:450px;
+            border-radius: 20px;
+        }
+
+        table{
+            margin-bottom: 500px;
+        }
+    </style>
+</head>
+<body bgcolor="lightblue">
+    <div class="div1">
+        <p class="p3"><b>Call Us</b></p>
+        <p class="p1"><b>(+916396712554)</b></p>
+        <img src="mail.png" class="image1">
+        <p class="p2"><b>gautam.k150895@gmail.com</b></p>
+    </div>
+    <h1 class="newh1">ASIAN OVERSEAS</h1>
+    <div class="div2">
+        <h1 class="newh2">About Us</h1>
+    </div>
+    <table>
+    <tr>
+        <td class="td1"><p align="justify" class="p4"><b>Asian Overseas is a foremost house of textile processing in<br>
+            India and relishes its broad process capacity. We are engaged<br>
+            in the textile processing with offering of value addition<br>
+            for all types of fabrics, together with cotton, polyester,<br>
+            poly-cotton, poly-viscose, glazed cotton etc. <br>
+           We present ground-breaking textile value addition solutions on<br> 
+           all kinds of fabrics namely Pleating, Crushing, Flocking,<br>
+            Embossing, Crinkling and Shimmering, foil printing on<br>
+            rotary machine, pigment print, khari print, rubber<br>
+            print, shimmering etc on all types of fabrics. We also<br> 
+           have a dedicated unit for automatic panel printing.</b></p></td>
+           <td class="td2">
+            <img src="stockpics.jpg" class="image2">
+           </td>
+    </tr>
+        </table>
+        <div class="div3">
+            <h2 class="demoh2">Strength</h2>
+            <p class="p5" align="justify"><b>Asian Overseas- Fabric & Textile Processing<br>
+                in India has carved a fine slot for<br>
+                itself in the field of fabric processing. The Company<br>
+                has achieved a status among its vast base of customers<br>
+                on the basis of efficient work and prompt delivery.
+               Till now, we have dished out our customers to their<br>
+                fullest satisfaction by means of state-of-art technology.<br>
+                The world class standards we follow have offered
+                us appreciations from our existing customer base.</b></p>
+        </div>
+</body>
+</html>
